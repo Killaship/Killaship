@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Killaship
 - 👀 I’m interested in ... Python, OSes, and sockets, servers, and microcontrollers.
-- 🌱 I’m currently learning ... Nothing ATM
-- 💞️ I’m looking to collaborate on ... Amp Shell/ AmpOS
+- 🌱 I’m currently learning ... Assembly, and C
+- 💞️ I’m looking to collaborate on ... Codename Spectrum
 - 📫 How to reach me ... Discord: Killaship#0034 Email: killaship27@gmail.com Youtube: Killaship Replit: @Killaship
 
 <!---
