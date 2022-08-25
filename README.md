@@ -2,6 +2,8 @@
 - 👀 I’m interested in ... Linux, OSes, shells, and microcontrollers.
 - 🌱 I’m currently learning ... Assembly, and C
 
+# 2 years on github!
+
 Anyways, enough with that github template crap, this is my profile, I usually work on Arduino, Linux, and OSDev projects here, and I do things.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Killaship&background=EE6502)](https://git.io/streak-stats)
 
