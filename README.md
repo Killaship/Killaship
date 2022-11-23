@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Killaship
 - 👀 I’m interested in ... Linux, OSes, shells, and microcontrollers.
-- 🌱 I’m currently learning ... Assembly, and C
+- 🌱 I’m currently learning ... not really much, I'm pretty good with C and asm at this point
 
 # 2 years on Github! As of writing this, this is my 2222nd commit on Github!
 
