@@ -4,7 +4,7 @@ If you'd like to see more about what simulator I use, I have a page on my websit
 
 Finally, if you didn't click on that link, I have a website, with pages containing all sorts of things! (about me, project details, a W.I.P. browser game, etc.)
 
-[website!](https://killaship.github.io/opinions/sebastiansim.html)
+[website!](https://killaship.github.io/index.html)
 
 ![](https://komarev.com/ghpvc/?username=Killaship&color=ee6502)
 
